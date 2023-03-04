@@ -5,6 +5,14 @@ body{
   padding: 0;
 }
 
+.bg img{
+width: 450px;
+position: fixed;
+bottom: -80px;
+right: -100px;
+z-index: -5;
+}
+
 ul, ol {
   margin: 0;
   padding: 0;
